@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tablero-sprint6/static/css/main.b1bbc919.css",
+    "main.js": "/tablero-sprint6/static/js/main.b260f896.js",
+    "static/js/787.fb78f5a2.chunk.js": "/tablero-sprint6/static/js/787.fb78f5a2.chunk.js",
+    "index.html": "/tablero-sprint6/index.html",
+    "main.b1bbc919.css.map": "/tablero-sprint6/static/css/main.b1bbc919.css.map",
+    "main.b260f896.js.map": "/tablero-sprint6/static/js/main.b260f896.js.map",
+    "787.fb78f5a2.chunk.js.map": "/tablero-sprint6/static/js/787.fb78f5a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1bbc919.css",
+    "static/js/main.b260f896.js"
+  ]
+}
